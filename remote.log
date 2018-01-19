@@ -1,0 +1,1 @@
+ef4a05fe-4610-4254-9e39-18b34f9fc0af autoenable=true bucket=pubs3-ef4a05fe-4610-4254-9e39-18b34f9fc0af datacenter=US encryption=none host=s3.amazonaws.com name=pubs3 port=80 public=yes storageclass=STANDARD type=S3 timestamp=1516320822.8707093s
